@@ -7,7 +7,7 @@ List of required packages:
 
 # Installation
 
-You can easily install {APP} by running the following commands:
+You can easily install app by running the following commands:
 ```bash
 # Tested on Ubuntu 16.04
 
@@ -18,6 +18,7 @@ $ bash install.sh
 # after Installation
 # run app with commands :
 ```
+cd java_app
 java CalcRun
 ```
 ## Developer :)
