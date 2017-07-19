@@ -9,4 +9,4 @@ NC='\033[0m'
 
 CYAN='\033[0;36m'
 
-echo -e "-${RED} App source installed ! ${NC}Now run app by ${CYAN}java CalcRun ${NC}command"
+echo -e "-${RED} App source installed ! ${NC}Now run app by ${CYAN}cd java_app && java CalcRun ${NC}command"
